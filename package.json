@@ -1,0 +1,11 @@
+{
+  "name": "y_websocket_server",
+  "version": "1.0.0",
+  "description": "Just a wrapper to run y-websocket ",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx y-websocket"
+  },
+  "author": "",
+  "license": "ISC"
+}
