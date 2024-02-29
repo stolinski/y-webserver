@@ -4,7 +4,7 @@
   "description": "Just a wrapper to run y-websocket ",
   "main": "index.js",
   "scripts": {
-    "start": "npx y-websocket"
+    "start": "HOST=0.0.0.0 npx y-websocket"
   },
   "author": "",
   "license": "ISC"
